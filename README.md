@@ -19,4 +19,4 @@ New_york_city.csv
 
 ### Credits
 Washington bikeshare website: [a link](https://nextcity.org/bike-share?gclid=Cj0KCQiA37KbBhDgARIsAIzce17V9caP6guC4Y72VvDYAMs4t16gtOGUgGUC55uK5PEAbWIxGQzkGWwaAgKkEALw_wcB)
-
+Chicago bikeshare website: [a link](https://www.kozy.com/articles/electric-bikes-pg1794.htm?gclid=Cj0KCQiA37KbBhDgARIsAIzce16e-yQhXoFVn-EFZSswjBkXUR2yo-jwOwRlW4VYG4WRxr_Bm0VSp8AaAuGaEALw_wcB)
