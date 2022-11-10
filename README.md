@@ -4,7 +4,11 @@
 Include the date you created this project and README file.
 
 ### Project Title
+<<<<<<< .merge_file_Q2XpJc
 Bikeshare Project
+=======
+Here you can put a project file
+>>>>>>> .merge_file_OfUYor
 
 ### Description
 Over the past decade, bicycle-sharing systems have been growing in number and popularity in cities across the world.
@@ -15,9 +19,13 @@ In this project, I will use data provided by Motivate, a bike share system provi
 I completed this project in october 2022.
 
 ### Files used
+<<<<<<< .merge_file_Q2XpJc
 Chicago.csv
 Wasington.csv
 New_york_city.csv
+=======
+I have not used any files
+>>>>>>> .merge_file_OfUYor
 
 ### Credits
 Washington bikeshare website: [a link](https://nextcity.org/bike-share?gclid=Cj0KCQiA37KbBhDgARIsAIzce17V9caP6guC4Y72VvDYAMs4t16gtOGUgGUC55uK5PEAbWIxGQzkGWwaAgKkEALw_wcB)
