@@ -18,5 +18,5 @@ Wasington.csv
 New_york_city.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Washington bikeshare website: [a link](https://nextcity.org/bike-share?gclid=Cj0KCQiA37KbBhDgARIsAIzce17V9caP6guC4Y72VvDYAMs4t16gtOGUgGUC55uK5PEAbWIxGQzkGWwaAgKkEALw_wcB)
 
